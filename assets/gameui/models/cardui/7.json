@@ -1,0 +1,6 @@
+{
+	 "parent": "gameui:hotbar/hotbar.4",
+	 "textures": {
+	   "front":"gameui:cardui/7"
+	}
+}

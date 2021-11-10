@@ -1,0 +1,82 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "gameui:info/potato/1.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue010"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/potato/2.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue020"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/potato/3.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue030"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/potato/4.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue040"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/potato/5.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue050"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/potato/6.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue060"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/potato/7.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue070"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/potato/8.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue080"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/potato/9.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue090"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/potato/10.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gameui:info/potato/11.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue110"]
+        }
+		
+    ]
+}

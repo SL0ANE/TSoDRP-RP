@@ -1,0 +1,6 @@
+{
+	 "parent": "card:minions_ingame/origin_off",
+	 "textures": {
+	   "front":"card:minions_ingame/knights/2"
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/lime_dye"
+    },
+	"overrides" :[
+		{"predicate":{"custom_model_data":101},"model":"card_box:1-1"},
+        {"predicate":{"custom_model_data":102},"model":"card_box:1-2"},
+        {"predicate":{"custom_model_data":103},"model":"card_box:1-3"}
+
+	]
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/red_dye"
+    },
+	"overrides" :[
+		{"predicate":{"custom_model_data":1},"model":"other:heads/mijiale"},
+        {"predicate":{"custom_model_data":2},"model":"other:heads/luxifa"},
+        {"predicate":{"custom_model_data":3},"model":"other:heads/jiabailie"},
+        {"predicate":{"custom_model_data":4},"model":"other:heads/beierfenge"}
+	]
+}

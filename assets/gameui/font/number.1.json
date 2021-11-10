@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "gameui:other/number.png",
+            "ascent": 10.5,
+            "height": 70,
+            "chars": ["1234567890/+-()_"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:other/cardad.png",
+            "ascent": 11,
+            "height": 70,
+            "chars": ["\ue001\u0000"]
+        }
+    ]
+}

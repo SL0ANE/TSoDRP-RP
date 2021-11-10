@@ -1,0 +1,23 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "gameui:other/air.png",
+            "ascent": -4,
+            "height": -4,
+            "chars": [","]
+        },
+    
+        {
+            "type": "bitmap",
+            "file": "gameui:other/card_tags.png",
+            "ascent": -35,
+            "height": 90,
+            "chars": [
+				"\ue001\ue002\ue003\ue004\ue005\ue006"
+			]
+					
+        }
+		
+    ]
+}

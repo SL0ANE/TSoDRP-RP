@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/cyan_dye"
+    },
+	"overrides" :[
+		{"predicate":{"custom_model_data":1},"model":"other:effect/sword_effect"},
+        {"predicate":{"custom_model_data":2},"model":"other:effect/tnt_effect"},
+        {"predicate":{"custom_model_data":3},"model":"other:effect/jail_effect"},
+        {"predicate":{"custom_model_data":4},"model":"other:effect/sword2_effect"},
+        {"predicate":{"custom_model_data":5},"model":"other:effect/cannon_effect"},
+        {"predicate":{"custom_model_data":6},"model":"other:effect/hammer_effect"},
+        {"predicate":{"custom_model_data":7},"model":"other:effect/arrow_effect"},
+        {"predicate":{"custom_model_data":8},"model":"other:effect/arrow2_effect"},
+        {"predicate":{"custom_model_data":9},"model":"other:effect/shield"}
+	]
+}

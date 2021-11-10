@@ -1,0 +1,75 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "gameui:info/yuepunk/1.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue010"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/yuepunk/2.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue020"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/yuepunk/3.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue030"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/yuepunk/4.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue040"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/yuepunk/5.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue050"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/yuepunk/6.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue060"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/yuepunk/7.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue070"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/yuepunk/8.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue080"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/yuepunk/9.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue090"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/yuepunk/10.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue100"]
+        }
+		
+    ]
+}

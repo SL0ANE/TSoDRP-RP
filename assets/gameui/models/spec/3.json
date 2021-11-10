@@ -1,0 +1,6 @@
+{
+	 "parent": "gameui:hotbar/hotbar.3",
+	 "textures": {
+	   "front":"gameui:spec/3"
+	}
+}

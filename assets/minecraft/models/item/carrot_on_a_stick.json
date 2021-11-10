@@ -1,0 +1,115 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+	"overrides" :[
+		{"predicate":{"custom_model_data":1},"model":"gameui:other/empty"},
+		{"predicate":{"custom_model_data":2},"model":"minecraft:item/gold_ingot"},
+
+
+
+
+		{"predicate":{"custom_model_data":100},"model":"gameui:other/1-0"},
+		{"predicate":{"custom_model_data":101},"model":"gameui:other/1-1"},
+		
+		{"predicate":{"custom_model_data":200},"model":"gameui:other/2-0"},
+		{"predicate":{"custom_model_data":201},"model":"gameui:other/2-1"},
+		
+		{"predicate":{"custom_model_data":300},"model":"gameui:cardui/off"},
+		{"predicate":{"custom_model_data":301},"model":"gameui:cardui/1"},
+		{"predicate":{"custom_model_data":302},"model":"gameui:cardui/2"},
+		{"predicate":{"custom_model_data":303},"model":"gameui:cardui/3"},
+		{"predicate":{"custom_model_data":304},"model":"gameui:cardui/4"},
+		{"predicate":{"custom_model_data":305},"model":"gameui:cardui/5"},
+		{"predicate":{"custom_model_data":306},"model":"gameui:cardui/6"},
+		{"predicate":{"custom_model_data":307},"model":"gameui:cardui/7"},
+		
+		{"predicate":{"custom_model_data":315},"model":"gameui:cardui/1-5"},
+		{"predicate":{"custom_model_data":316},"model":"gameui:cardui/1-6"},
+		{"predicate":{"custom_model_data":317},"model":"gameui:cardui/1-7"},
+		{"predicate":{"custom_model_data":324},"model":"gameui:cardui/2-4"},
+		{"predicate":{"custom_model_data":325},"model":"gameui:cardui/2-5"},
+		{"predicate":{"custom_model_data":326},"model":"gameui:cardui/2-6"},
+		{"predicate":{"custom_model_data":327},"model":"gameui:cardui/2-7"},
+		{"predicate":{"custom_model_data":333},"model":"gameui:cardui/3-3"},
+		{"predicate":{"custom_model_data":334},"model":"gameui:cardui/3-4"},
+		{"predicate":{"custom_model_data":335},"model":"gameui:cardui/3-5"},
+		{"predicate":{"custom_model_data":336},"model":"gameui:cardui/3-6"},
+		{"predicate":{"custom_model_data":342},"model":"gameui:cardui/4-2"},
+		{"predicate":{"custom_model_data":343},"model":"gameui:cardui/4-3"},
+		{"predicate":{"custom_model_data":344},"model":"gameui:cardui/4-4"},
+		{"predicate":{"custom_model_data":345},"model":"gameui:cardui/4-5"},
+		{"predicate":{"custom_model_data":351},"model":"gameui:cardui/5-1"},
+		{"predicate":{"custom_model_data":352},"model":"gameui:cardui/5-2"},
+		{"predicate":{"custom_model_data":353},"model":"gameui:cardui/5-3"},
+		{"predicate":{"custom_model_data":354},"model":"gameui:cardui/5-4"},
+		{"predicate":{"custom_model_data":361},"model":"gameui:cardui/6-1"},
+		{"predicate":{"custom_model_data":362},"model":"gameui:cardui/6-2"},
+		{"predicate":{"custom_model_data":363},"model":"gameui:cardui/6-3"},
+		{"predicate":{"custom_model_data":364},"model":"gameui:cardui/6-4"},
+		{"predicate":{"custom_model_data":371},"model":"gameui:cardui/7-1"},
+		{"predicate":{"custom_model_data":372},"model":"gameui:cardui/7-2"},
+		{"predicate":{"custom_model_data":373},"model":"gameui:cardui/7-3"},
+		{"predicate":{"custom_model_data":399},"model":"gameui:cardui/all"},
+		
+		{"predicate":{"custom_model_data":400},"model":"gameui:playerhp30/0"},
+		{"predicate":{"custom_model_data":401},"model":"gameui:playerhp30/1"},
+		{"predicate":{"custom_model_data":402},"model":"gameui:playerhp30/2"},
+		{"predicate":{"custom_model_data":403},"model":"gameui:playerhp30/3"},
+		{"predicate":{"custom_model_data":404},"model":"gameui:playerhp30/4"},
+		{"predicate":{"custom_model_data":405},"model":"gameui:playerhp30/5"},
+		{"predicate":{"custom_model_data":406},"model":"gameui:playerhp30/6"},
+		{"predicate":{"custom_model_data":407},"model":"gameui:playerhp30/7"},
+		{"predicate":{"custom_model_data":408},"model":"gameui:playerhp30/8"},
+		{"predicate":{"custom_model_data":409},"model":"gameui:playerhp30/9"},
+		{"predicate":{"custom_model_data":410},"model":"gameui:playerhp30/10"},
+		{"predicate":{"custom_model_data":411},"model":"gameui:playerhp30/11"},
+		{"predicate":{"custom_model_data":412},"model":"gameui:playerhp30/12"},
+		{"predicate":{"custom_model_data":413},"model":"gameui:playerhp30/13"},
+		{"predicate":{"custom_model_data":414},"model":"gameui:playerhp30/14"},
+		{"predicate":{"custom_model_data":415},"model":"gameui:playerhp30/15"},
+		{"predicate":{"custom_model_data":416},"model":"gameui:playerhp30/16"},
+		{"predicate":{"custom_model_data":417},"model":"gameui:playerhp30/17"},
+		{"predicate":{"custom_model_data":418},"model":"gameui:playerhp30/18"},
+		{"predicate":{"custom_model_data":419},"model":"gameui:playerhp30/19"},
+		{"predicate":{"custom_model_data":420},"model":"gameui:playerhp30/20"},
+		{"predicate":{"custom_model_data":421},"model":"gameui:playerhp30/21"},
+		{"predicate":{"custom_model_data":422},"model":"gameui:playerhp30/22"},
+		{"predicate":{"custom_model_data":423},"model":"gameui:playerhp30/23"},
+		{"predicate":{"custom_model_data":424},"model":"gameui:playerhp30/24"},
+		{"predicate":{"custom_model_data":425},"model":"gameui:playerhp30/25"},
+		{"predicate":{"custom_model_data":426},"model":"gameui:playerhp30/26"},
+		{"predicate":{"custom_model_data":427},"model":"gameui:playerhp30/27"},
+		{"predicate":{"custom_model_data":428},"model":"gameui:playerhp30/28"},
+		{"predicate":{"custom_model_data":429},"model":"gameui:playerhp30/29"},
+		{"predicate":{"custom_model_data":430},"model":"gameui:playerhp30/30"},
+		
+		
+		
+		{"predicate":{"custom_model_data":500},"model":"gameui:mana/0"},
+		{"predicate":{"custom_model_data":501},"model":"gameui:mana/1"},
+		{"predicate":{"custom_model_data":502},"model":"gameui:mana/2"},
+		{"predicate":{"custom_model_data":503},"model":"gameui:mana/3"},
+		{"predicate":{"custom_model_data":504},"model":"gameui:mana/4"},
+		{"predicate":{"custom_model_data":505},"model":"gameui:mana/5"},
+		{"predicate":{"custom_model_data":506},"model":"gameui:mana/6"},
+		{"predicate":{"custom_model_data":507},"model":"gameui:mana/7"},
+
+
+
+		{"predicate":{"custom_model_data":601},"model":"gameui:card_choose/0"},
+		{"predicate":{"custom_model_data":602},"model":"gameui:card_choose/1"},
+
+		{"predicate":{"custom_model_data":701},"model":"gameui:spec/1"},
+		{"predicate":{"custom_model_data":702},"model":"gameui:spec/2"},
+		{"predicate":{"custom_model_data":703},"model":"gameui:spec/3"},
+		{"predicate":{"custom_model_data":704},"model":"gameui:spec/4"},
+		{"predicate":{"custom_model_data":705},"model":"gameui:spec/5"},
+		{"predicate":{"custom_model_data":706},"model":"gameui:spec/6"},
+		{"predicate":{"custom_model_data":707},"model":"gameui:spec/7"},
+		{"predicate":{"custom_model_data":708},"model":"gameui:spec/8"},
+		{"predicate":{"custom_model_data":709},"model":"gameui:spec/9"}
+		
+	]
+}

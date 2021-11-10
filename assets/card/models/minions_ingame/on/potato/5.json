@@ -1,0 +1,7 @@
+{
+	 "parent": "card:minions_ingame/origin",
+	 "textures": {
+	   "back": "card:minions_ingame/potato/back",
+	   "front":"card:minions_ingame/potato/5"
+	}
+}

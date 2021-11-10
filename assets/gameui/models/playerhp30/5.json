@@ -1,0 +1,6 @@
+{
+	 "parent": "gameui:hotbar/hotbar.2",
+	 "textures": {
+	   "front":"gameui:playerhp30/5"
+	}
+}

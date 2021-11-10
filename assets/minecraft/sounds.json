@@ -1,0 +1,51 @@
+{
+	"killsound1": {
+		"sounds": [
+			{
+				"name": "killsound/drum1",
+				"stream": true
+			}		]
+	},
+	"killsound2": {
+		"sounds": [
+			{
+				"name": "killsound/drum2",
+				"stream": true
+			}		]
+	},
+	"killsound3": {
+		"sounds": [
+			{
+				"name": "killsound/drum3",
+				"stream": true
+			}		]
+	},
+	"killsound4": {
+		"sounds": [
+			{
+				"name": "killsound/drum4",
+				"stream": true
+			}		]
+	},
+	"killsound5": {
+		"sounds": [
+			{
+				"name": "killsound/drum5",
+				"stream": true
+			}		]
+	},
+	"johncena": {
+		"sounds": [
+			{
+				"name": "easter_eggs/johncena",
+				"stream": true
+			}		]
+	},
+	"bet": {
+		"sounds": [
+			{
+				"name": "gamesound/bet",
+				"stream": true
+			}		]
+	}
+}

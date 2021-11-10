@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "other:posters/lottery_event",
+		"1": "other:item/sword_wood",
+		"particle": "other:posters/poster1"
+	},
+	"elements": [
+		{
+			"from": [-16, -4, 0],
+			"to": [32, 31, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 12], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [-2, 0, 0],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"translation": [0, -22, 29],
+			"scale": [4, 4, 4]
+		}
+	}
+}

@@ -1,0 +1,41 @@
+
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/blue_dye"
+    },
+	"overrides" :[
+		{"predicate":{"custom_model_data":1},"model":"doll:character/raid_captain_temila"},
+        {"predicate":{"custom_model_data":2},"model":"doll:character/raid_harvest_jack"},
+        {"predicate":{"custom_model_data":3},"model":"doll:character/raid_skytouched_shaman"},
+        {"predicate":{"custom_model_data":4},"model":"doll:character/vocaloid_hatsune_miku"},
+        {"predicate":{"custom_model_data":5},"model":"doll:character/genshin_hutao_yao"},
+        {"predicate":{"custom_model_data":6},"model":"doll:character/nyan_cat"},
+        {"predicate":{"custom_model_data":7},"model":"doll:character/yugioh_joey"},
+        {"predicate":{"custom_model_data":8},"model":"doll:character/yugioh_kaiba"},
+        {"predicate":{"custom_model_data":9},"model":"doll:character/yugioh_yugi"},
+        {"predicate":{"custom_model_data":10},"model":"doll:character/nono"},
+        {"predicate":{"custom_model_data":11},"model":"doll:character/supernono"},
+
+
+		{"predicate":{"custom_model_data":100},"model":"other:statues/mijiale"},
+        {"predicate":{"custom_model_data":101},"model":"other:statues/luxifa"},
+        {"predicate":{"custom_model_data":102},"model":"other:statues/jiabailie"},
+        {"predicate":{"custom_model_data":103},"model":"other:statues/beierfenge"},
+        {"predicate":{"custom_model_data":104},"model":"other:statues/kc"},
+
+        
+        {"predicate":{"custom_model_data":1001},"model":"doll:shards/raid_captain_temila"},
+        {"predicate":{"custom_model_data":1002},"model":"doll:shards/raid_harvest_jack"},
+        {"predicate":{"custom_model_data":1003},"model":"doll:shards/raid_skytouched_shaman"},
+        {"predicate":{"custom_model_data":1004},"model":"doll:shards/vocaloid_hatsune_miku"},
+        {"predicate":{"custom_model_data":1005},"model":"doll:shards/genshin_hutao_yao"},
+        {"predicate":{"custom_model_data":1006},"model":"doll:shards/nyan_cat"},
+        {"predicate":{"custom_model_data":1007},"model":"doll:shards/yugioh_joey"},
+        {"predicate":{"custom_model_data":1008},"model":"doll:shards/yugioh_kaiba"},
+        {"predicate":{"custom_model_data":1009},"model":"doll:shards/yugioh_yugi"},
+        {"predicate":{"custom_model_data":1010},"model":"doll:shards/nono"},
+        {"predicate":{"custom_model_data":1011},"model":"doll:shards/supernono"}
+
+	]
+}

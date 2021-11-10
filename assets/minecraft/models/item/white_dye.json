@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/white_dye"
+    },
+	"overrides" :[
+		{"predicate":{"custom_model_data":1},"model":"other:tool/debit_card"},
+        {"predicate":{"custom_model_data":2},"model":"other:tool/tsod1"},
+        {"predicate":{"custom_model_data":3},"model":"other:tool/tsod2"},
+        {"predicate":{"custom_model_data":4},"model":"other:tool/tsod3"}
+	]
+}

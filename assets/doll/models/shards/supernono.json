@@ -1,0 +1,6 @@
+{
+	 "parent": "doll:origin",
+	 "textures": {
+	   "front":"doll:supernono/shard"
+	}
+}

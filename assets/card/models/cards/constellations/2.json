@@ -1,0 +1,7 @@
+{
+	 "parent": "card:cards/origin",
+	 "textures": {
+	   "back": "card:cards/back",
+	   "front":"card:cards/constellations/2"
+	}
+}

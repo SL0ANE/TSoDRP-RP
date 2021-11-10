@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/green_dye"
+    },
+	"overrides" :[
+		{"predicate":{"custom_model_data":1},"model":"other:decorations/slot_machine_screen_on"},
+        {"predicate":{"custom_model_data":2},"model":"other:tool/scooter"},
+        {"predicate":{"custom_model_data":3},"model":"other:decorations/poster1"},
+        {"predicate":{"custom_model_data":4},"model":"other:decorations/poster2"},
+        {"predicate":{"custom_model_data":5},"model":"other:decorations/lottery_event"},
+        {"predicate":{"custom_model_data":6},"model":"other:decorations/buff_poster"}     
+	]
+}

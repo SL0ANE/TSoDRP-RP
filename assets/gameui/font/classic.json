@@ -1,0 +1,159 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "gameui:info/classic/1.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue010"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/2.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue020"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/3.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue030"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/4.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue040"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/5.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue050"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/6.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue060"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/7.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue070"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/8.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue080"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/9.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue090"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/10.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue100"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/11.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue110"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/12.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue120"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/13.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue130"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/14.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue140"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/15.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue150"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/16.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue160"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/17.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue170"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/18.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue180"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/19.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue190"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gameui:info/classic/20.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue200"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/21.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue210"]
+        },
+		{
+            "type": "bitmap",
+            "file": "gameui:info/classic/22.png",
+            "height": 90,
+            "ascent": 26,
+            "chars": ["\ue220"]
+        }
+		
+    ]
+}
