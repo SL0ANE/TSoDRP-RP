@@ -101,15 +101,15 @@
 		{"predicate":{"custom_model_data":601},"model":"gameui:card_choose/0"},
 		{"predicate":{"custom_model_data":602},"model":"gameui:card_choose/1"},
 
-		{"predicate":{"custom_model_data":701},"model":"gameui:spec/1"},
-		{"predicate":{"custom_model_data":702},"model":"gameui:spec/2"},
-		{"predicate":{"custom_model_data":703},"model":"gameui:spec/3"},
-		{"predicate":{"custom_model_data":704},"model":"gameui:spec/4"},
-		{"predicate":{"custom_model_data":705},"model":"gameui:spec/5"},
-		{"predicate":{"custom_model_data":706},"model":"gameui:spec/6"},
-		{"predicate":{"custom_model_data":707},"model":"gameui:spec/7"},
-		{"predicate":{"custom_model_data":708},"model":"gameui:spec/8"},
-		{"predicate":{"custom_model_data":709},"model":"gameui:spec/9"}
+		{"predicate":{"custom_model_data":701},"model":"gameui:spec/0"},
+		{"predicate":{"custom_model_data":702},"model":"gameui:spec/1"},
+		{"predicate":{"custom_model_data":703},"model":"gameui:spec/2"},
+		{"predicate":{"custom_model_data":704},"model":"gameui:spec/3"},
+		{"predicate":{"custom_model_data":705},"model":"gameui:spec/4"},
+		{"predicate":{"custom_model_data":706},"model":"gameui:spec/5"},
+		{"predicate":{"custom_model_data":707},"model":"gameui:spec/6"},
+		{"predicate":{"custom_model_data":708},"model":"gameui:spec/7"},
+		{"predicate":{"custom_model_data":709},"model":"gameui:spec/8"}
 		
 	]
 }

@@ -1,5 +1,5 @@
 {
-	 "parent": "gameui:hotbar/hotbar.7",
+	 "parent": "gameui:spec/spec_origin",
 	 "textures": {
 	   "front":"gameui:spec/7"
 	}
