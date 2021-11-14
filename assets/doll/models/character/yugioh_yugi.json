@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "OuOuo Studio Creation.",
 	"textures": {
 		"2": "doll:yugi/yugioh_yugi",
 		"3": "doll:yugi/yugioh_yugi_eyes",
@@ -231,18 +231,6 @@
 			"faces": {
 				"east": {"uv": [1.032, 0.032, 1.968, 0.968], "texture": "#2"},
 				"west": {"uv": [1.032, 0.032, 1.968, 0.968], "texture": "#2"},
-				"down": {"uv": [1.032, 0.032, 1.968, 0.968], "texture": "#2"}
-			}
-		},
-		{
-			"from": [6.4, 8.85, 4.9],
-			"to": [9.4, 10.25, 8.3],
-			"faces": {
-				"north": {"uv": [1.032, 0.032, 1.968, 0.968], "texture": "#2"},
-				"east": {"uv": [1.032, 0.032, 1.968, 0.968], "texture": "#2"},
-				"south": {"uv": [1.032, 0.032, 1.968, 0.968], "texture": "#2"},
-				"west": {"uv": [1.032, 0.032, 1.968, 0.968], "texture": "#2"},
-				"up": {"uv": [1.032, 0.032, 1.968, 0.968], "texture": "#2"},
 				"down": {"uv": [1.032, 0.032, 1.968, 0.968], "texture": "#2"}
 			}
 		},
