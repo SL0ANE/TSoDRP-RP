@@ -156,7 +156,6 @@
 				"east": {"uv": [2.5, 0.75, 2.75, 1], "texture": "#back"},
 				"south": {"uv": [2.5, 0.75, 5.25, 1], "texture": "#front"},
 				"west": {"uv": [5, 0.75, 5.25, 1], "texture": "#back"},
-				"up": {"uv": [0, 0, 5.5, 1.5], "texture": "#missing"},
 				"down": {"uv": [2.5, 0.75, 5.25, 1], "texture": "#back"}
 			}
 		},
